@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://andknam.github.io/',
   pathPrefix: '/',
   title: 'Andrew Nam',
-  subtitle: 'My Site and Blog',
+  subtitle: 'Personal Site and Blog',
   copyright: '© Andrew Nam 2021',
   disqusShortname: '',
   postsPerPage: 4,
@@ -16,16 +16,17 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
   ],
   author: {
     name: 'Andrew Nam',
     photo: '/photo.jpg',
-    bio: 'My Site and Blog',
+    bio: 'Personal Site and Blog',
+    copyright: '© Andrew Nam 2021',
     contacts: {
-      email: 'andrew[dot]k[dot]nam[at]vanderbilt[dot]edu',
+      email: 'andrew.k.nam@vanderbilt.edu',
       facebook: '',
       telegram: '',
       twitter: '',
@@ -41,6 +42,6 @@ module.exports = {
       youtube: '',
       soundcloud: '',
       medium: '@andrew22124',
-    }
+    },
   }
 };
