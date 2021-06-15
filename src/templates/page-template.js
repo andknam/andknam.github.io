@@ -31,21 +31,21 @@ const PageTemplate = ({ data }: Props) => {
   );
 };
 
-// export const query = graphql`
-//   query PageBySlug($slug: String!) {
-//     markdownRemark(fields: { slug: { eq: $slug } }) {
-//       id
-//       html
-//       frontmatter {
-//         title
-//         date
-//         description
-//         socialImage {
-//           publicURL
-//         }
-//       }
-//     }
-//   }
-// `;
+export const query = graphql`
+  query PageBySlug($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      id
+      html
+      frontmatter {
+        title
+        date
+        description
+        socialImage {
+          publicURL
+        }
+      }
+    }
+  }
+`;
 
 export default PageTemplate;

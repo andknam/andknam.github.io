@@ -3,7 +3,7 @@ title: First Post
 date: "2021-06-15T00:00:00+00:00"
 template: "post"
 draft: false
-slug: "perfecting-the-art-of-perfection"
+slug: "welcome-to-site"
 category: "Misc"
 tags:
   - "First post"

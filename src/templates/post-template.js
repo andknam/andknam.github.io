@@ -26,26 +26,26 @@ const PostTemplate = ({ data }: Props) => {
   );
 };
 
-// export const query = graphql`
-//   query PostBySlug($slug: String!) {
-//     markdownRemark(fields: { slug: { eq: $slug } }) {
-//       id
-//       html
-//       fields {
-//         slug
-//         tagSlugs
-//       }
-//       frontmatter {
-//         date
-//         description
-//         tags
-//         title
-//         socialImage {
-//           publicURL
-//         }
-//       }
-//     }
-//   }
-// `;
+export const query = graphql`
+  query PostBySlug($slug: String!) {
+    markdownRemark(fields: { slug: { eq: $slug } }) {
+      id
+      html
+      fields {
+        slug
+        tagSlugs
+      }
+      frontmatter {
+        date
+        description
+        tags
+        title
+        socialImage {
+          publicURL
+        }
+      }
+    }
+  }
+`;
 
 export default PostTemplate;
