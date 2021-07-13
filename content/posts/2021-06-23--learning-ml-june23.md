@@ -1,6 +1,6 @@
 ---
 title: Learning Machine Learning (June 14 - June 23) 
-date: "2021-06-23T00:00:00+00:00"
+date: "2021-06-23T10:00:00+0000"
 template: "post"
 draft: false
 slug: "learning-ml-june23"

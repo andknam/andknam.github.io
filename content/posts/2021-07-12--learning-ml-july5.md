@@ -1,6 +1,6 @@
 ---
 title: Learning Machine Learning (June 28 - July 5) 
-date: "2021-07-12T00:00:00+00:00"
+date: "2021-07-12T10:00:00+00:00"
 template: "post"
 draft: false
 slug: "learning-ml-july5"
