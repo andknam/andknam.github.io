@@ -13,7 +13,7 @@ socialImage: ""
 🏥 Previously, I've built an interest in healthcare through my work at [Vanderbilt University Medical Center (VUMC)](https://www.vumc.org/main/home), working on integrating pediatric height calculation functionality into the VUMC electronic health record. Last year, I assisted NLP research at the [Social Computing for Health and Well-being Research (#SPHERE) lab](https://zjyin.github.io/spherelab/), learning about fine-tuned BERT classification and structural topic modeling in analyzing online discussion posts by Alzheimer's Disease caregivers. 
 
 😃 Outside of work, here are a few things that I've been doing recently:
-- reading about VC/entrepeneurship
+- reading about VC/entrepreneurship
 - trying out blockchain-related tutorials 
 - teaching Korean through Vanderbilt's Language Mentorship Program
 - attempting to play electric guitar
